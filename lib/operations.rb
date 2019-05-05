@@ -1,7 +1,7 @@
 def unsafe?(speed)
 end	
 
- def not_safe?
+ def not_safe?(speed)
 end
 
 
